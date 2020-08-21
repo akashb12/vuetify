@@ -171,8 +171,8 @@ export default {
         },
          {
           icon: 'mdi-chart-bubble',
-          title: 'News',
-          to: '/news'
+          title: 'types',
+          to: '/types'
         }
       ],
       miniVariant: false,
